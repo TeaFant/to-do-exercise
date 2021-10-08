@@ -1,0 +1,9 @@
+.list {
+    display: flex;
+}
+.list div {
+    width: 100%;
+}
+.list div:first-child {
+    padding-right: 1rem;
+}
